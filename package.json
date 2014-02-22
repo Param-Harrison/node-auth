@@ -1,0 +1,16 @@
+{
+  "name": "node-auth",
+  "main": "server.js",
+  "dependencies" : {
+    "express" : "latest", 			
+    "ejs" : "latest", 				
+    "mongoose" : "latest", 			
+    "passport" : "latest", 		
+    "passport-local" : "latest", 	
+    "passport-facebook" : "latest", 
+    "passport-twitter" : "latest", 	
+    "passport-google-oauth" : "latest",
+    "connect-flash" : "latest", 	
+    "bcrypt-nodejs" : "latest" 		
+  }
+}
